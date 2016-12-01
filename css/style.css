@@ -1,0 +1,22 @@
+html, body {
+    height:100%;
+    font-family: "Lato", sans-serif
+}
+
+body {
+	width: 100%;
+	height: 100%;
+	background: url('../img/rep11.jpg') no-repeat ;
+	background-size: cover;
+	color: #fff;
+}
+
+.mySlides {display: none}
+
+.w3-card-2, .w3-example{box-shadow: none !important;}
+.w3-black, .w3-hover-black:hover{background-color: transparent !important;}
+.w3-padding-300{
+    padding-top: 200px!important;
+    padding-bottom: 200px!important;
+    color: white;
+  }
