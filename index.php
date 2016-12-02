@@ -96,8 +96,8 @@
 
 <!-- Footer -->
 <footer class="w3-container w3-padding-300 w3-center w3-opacity w3-light-grey w3-xlarge">
-  <i class="fa fa-github w3-hover-text-indigo"></i>
-  <p class="w3-medium">Digital Storytelling - <a href="#">More Info</a></p>
+  <a href="https://github.com/viragjacint/digital-story-telling" target="_blank"><i class="fa fa-github w3-hover-text-indigo"></i></a>
+  <p class="w3-medium">Digital Storytelling</p>
 </footer>
 
 
