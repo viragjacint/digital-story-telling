@@ -1,17 +1,37 @@
-// Used to toggle the menu on small screens when clicking on the menu button
-function myFunction() {
-    var x = document.getElementById("navDemo");
-    if (x.className.indexOf("w3-show") == -1) {
-        x.className += " w3-show";
-    } else {
-        x.className = x.className.replace(" w3-show", "");
-    }
-}
 
-// When the user clicks anywhere outside of the modal, close it
-var modal = document.getElementById('ticketModal');
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
+$(".button_1").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#chapter-two").offset().top - 300
+    }, 3000);
+});
+
+
+$(".button_2").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#chapter-three").offset().top - 300
+    }, 3000);
+});
+
+$(".button_3").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#chapter-four").offset().top - 300
+    }, 3000);
+});
+
+$(".button_4").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#chapter-five").offset().top - 300
+    }, 3000);
+});
+
+$(".button_5").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#chapter-six").offset().top - 300
+    }, 3000);
+});
+
+$(".button_6").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#chapter-seven").offset().top - 300
+    }, 3000);
+});
