@@ -15,10 +15,10 @@
 
     <div class="chapters">
 
-      <h1 class="title"><a href="#">Rapunzel - The untold story</a></h1>
+      <h1 class="title"><a href="#" class="intro">Rapunzel - The untold story</a></h1>
 
       <!-- chapter-one -->
-      <div class="chapter"   id="chapter-one">
+      <div class="chapter chapter-one"   id="chapter-one">
         <p>Do you know who I am? I am Rapunzel. I am sure you have heard of me.
           Whatever you heard is a lie, let me tell you the true story.
         </p>
