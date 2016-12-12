@@ -1,17 +1,18 @@
-<!DOCTYPE>
-<html class="background">
+<!DOCTYPE html>
+<html lang="en-us" class="background">
   <head>
     <meta charset="utf-8">
     <title>Rapunzel - The Untold Story</title>
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css?family=Reem+Kufi" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Monoton" rel="stylesheet">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Monoton"   rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway"   rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-
+    <link rel="stylesheet" href="css/style.css">
   </head>
-  <body>
 
+  <body>
 
     <div class="chapters">
 
@@ -117,8 +118,9 @@
       </div>
 
   </div>
-  <!-- chapters -->
+  <!-- end chapters -->
 
+  <!-- scripts -->
   <script src="js/script.js"></script>
 
   </body>
